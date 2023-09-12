@@ -80,6 +80,36 @@ videoteca
 ![videoteca](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/25651457-7538-4dd5-8787-9ce4cebd6067)
 
 
+# EXERCICIO 7
+## Descrição Do Exercicio da Aluno
+
+ Um aluno deve ter RA, nome, data de nascimento, endereço e e-mail;
+
+## Metodologia
+Eu realizei o fluxograma do exercicio logo após, eu fui indefenficando cada atributo do mesmo e logo em seguida realizei a montagem do banco de dados.
+
+## Nome do arquivo
+aluno
+
+![aluno](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/478be52b-787c-424a-ae9d-4e2a1bd49846)
+
+# EXERCICIO 8
+## Descrição Do Exercicio da Colaborador
+
+ Um colaborador deve ter um código de identificação, nome, CPF, cargo e salário;
+
+## Metodologia
+Eu realizei o fluxograma do exercicio logo após, eu fui indefenficando cada atributo do mesmo e logo em seguida realizei a montagem do banco de dados.
+
+## Nome do arquivo
+colaborador
+
+![colaborador](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/bc70836c-f228-4491-916a-c0ca69254f31)
+
+
+
+
+
 
 
 
