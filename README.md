@@ -8,7 +8,7 @@ Um cliente deve informar seu nome, CPF, e-mail e telefone, além do nome, espéc
 Eu realizei o fluxograma do exercicio logo após, eu fui indefenficando cada atributo do mesmo e logo em seguida realizei a montagem do banco de dados.
 
 ## Nome do arquivo
-pet
+pet.txt
 
 ![petprint](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/d9671895-3a77-4418-876d-6f6e99def184)
 
@@ -22,7 +22,7 @@ Cada projeto tem um nome, data de lançamento, gênero e faixa etária. Segundo 
 Eu realizei o fluxograma do exercicio logo após, eu fui indefenficando cada atributo do mesmo e logo em seguida realizei a montagem do banco de dados.
 
 ## Nome do arquivo
-produtora
+produtora.txt
 
 ![produtoraprint](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/ce5c44b8-fb48-4e80-8dae-ca3b0f8bee48)
 
@@ -36,7 +36,7 @@ Uma biblioteca efetua registro de autores e livros. Um autor é cadastrado com s
 Eu realizei o fluxograma do exercicio logo após, eu fui indefenficando cada atributo do mesmo e logo em seguida realizei a montagem do banco de dados.
 
 ## Nome do arquivo
-biblioteca
+biblioteca.txt
 
 ![biblioteca](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/192300dd-f244-4cca-87af-a2c6571b88f3)
 
@@ -49,7 +49,7 @@ Uma locadora de automóveis, mantém registro dos automóveis. Um automóvel é 
 Eu realizei o fluxograma do exercicio logo após, eu fui indefenficando cada atributo do mesmo e logo em seguida realizei a montagem do banco de dados.
 
 ## Nome do arquivo
-locadora
+locadoradecarros.txt
 
 ![montadoraprint](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/cb243345-48e1-4996-9ffe-bece54f98f7b)
 
@@ -62,7 +62,7 @@ Um supermercado cadastra seus produtos. Um produto é identificado por seu nome,
 Eu realizei o fluxograma do exercicio logo após, eu fui indefenficando cada atributo do mesmo e logo em seguida realizei a montagem do banco de dados.
 
 ## Nome do arquivo
-produto
+produto.txt
 
 ![supermercado](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/1aa2dbf8-d393-43e7-a446-65e341953844)
 
@@ -75,7 +75,7 @@ Uma videoteca precisa cadastrar o título, duração, idioma original e preço d
 Eu realizei o fluxograma do exercicio logo após, eu fui indefenficando cada atributo do mesmo e logo em seguida realizei a montagem do banco de dados.
 
 ## Nome do arquivo
-videoteca
+videoteca.txt
 
 ![videoteca](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/25651457-7538-4dd5-8787-9ce4cebd6067)
 
@@ -89,7 +89,7 @@ videoteca
 Eu realizei o fluxograma do exercicio logo após, eu fui indefenficando cada atributo do mesmo e logo em seguida realizei a montagem do banco de dados.
 
 ## Nome do arquivo
-aluno
+aluno.txt
 
 ![aluno](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/478be52b-787c-424a-ae9d-4e2a1bd49846)
 
@@ -102,7 +102,7 @@ aluno
 Eu realizei o fluxograma do exercicio logo após, eu fui indefenficando cada atributo do mesmo e logo em seguida realizei a montagem do banco de dados.
 
 ## Nome do arquivo
-colaborador
+colaboradores.txt
 
 ![colaborador](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/bc70836c-f228-4491-916a-c0ca69254f31)
 
