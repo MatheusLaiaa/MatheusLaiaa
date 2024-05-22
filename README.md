@@ -19,5 +19,7 @@ Atualmente, sou aluno do curso de Análise e Desenvolvimento de Sistemas, com pr
 <img align= "center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
+-------------------------------------------------
 
+Por isso não desanimamos. Embora exteriormente estejamos a desgastar-nos, interiormente estamos sendo renovados dia após dia
 
