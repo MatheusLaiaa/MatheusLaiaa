@@ -1,4 +1,9 @@
 ### Olá eu sou o Matheus Laia.🙋🏽‍♂️
+
+Atualmente, sou aluno do curso de Análise e Desenvolvimento de Sistemas, com previsão de graduação em 2025. Meu comprometimento com a excelência se reflete não apenas nessa direção, mas também na conclusão do curso de Técnico em Mecatrônica, onde eu atuo atualmente na area na empresa SAT AUTOMAÇÃO e em diversos cursos complementares.
+ A dedicação ao estudo de Java é uma busca constante. Essa linguagem versátil e amplamente adotada no desenvolvimento Back End tem capturado minha atenção devido à sua adaptabilidade e funcionalidades.
+ A formação em Técnico em Mecatrônica trouxe uma perspectiva multidisciplinar à minha jornada. Compreender a convergência entre componentes mecânicos e eletrônicos expandiu minha visão sobre sistemas complexos, enriquecendo minha abordagem como desenvolvedor.
+ 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuslaia/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheuslaiaa/)
 
